@@ -143,3 +143,9 @@ body {
 
   border-bottom: 1px solid var(--main-red-color);
 }
+
+.todo-text {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
